@@ -1,0 +1,806 @@
+{
+   "TIP_FOR":{
+      "descripcion":"Formulario aplicado en:",
+      "diccionario":{
+         "1":"DMC",
+         "2":"Análogo (papel)"
+      }
+   },
+   "P1":{
+      "descripcion":"1. Departamento",
+      "diccionario":{
+         "05":"Antioquia",
+         "08":"Atlantico",
+         "17":"Caldas",
+         "68":"Santander",
+         "76":"Valle del cauca"
+      }
+   },
+   "P1S1":{
+      "descripcion":"1.1 Municipio o área no municipalizada",
+      "diccionario":{
+         "05001":"Medellín",
+         "05079":"Barbosa",
+         "05088":"Bello",
+         "05129":"Caldas",
+         "05212":"Copacabana",
+         "05266":"Envigado",
+         "05308":"Girardota",
+         "05360":"Itagui",
+         "05380":"La Estrella",
+         "05631":"Sabaneta",
+         "08001":"Barranquilla",
+         "08296":"Galapa",
+         "08433":"Malambo",
+         "08573":"Puerto Colombia",
+         "08758":"Soledad",
+         "17001":"Manizales",
+         "68001":"Bucaramanga",
+         "68276":"Floridablanca",
+         "68307":"Giron",
+         "68547":"Piedecuesta",
+         "76001":"Cali"
+      }
+   },
+   "P2":{
+      "descripcion":"2. Clase",
+      "diccionario":{
+         "1":"Cabecera municipal"
+      }
+   },
+   "P2S1":{
+      "descripcion":"Localidad/Comuna"
+   },
+   "P5":{
+      "descripcion":"5. Lugar de la entrevista",
+      "diccionario":{
+         "1":"En la calle (puente, andén, parque, alcantarilla, etc.)",
+         "2":"En una institución",
+         "3":"En un dormitorio transitorio (hotel, paga diario,inquilinato,residencia, camarote)",
+         "4":"En otro lugar"
+      }
+   },
+   "CTL_1":{
+      "descripcion":"Tipo de diligenciamiento del cuestionario",
+      "diccionario":{
+         "1":"Con entrevista directa",
+         "2":"Por observación",
+         "3":"No sabe"
+      }
+   },
+   "P8R":{
+      "descripcion":"8. ¿Cuántos años cumplidos tiene usted?"
+   },
+   "P9":{
+      "descripcion":"9. ¿Usted es hombre o mujer?",
+      "diccionario":{
+         "1":"Hombre",
+         "2":"Mujer"
+      }
+   },
+   "P10R":{
+      "descripcion":"10. ¿Qué tipo de documento de identidad Colombiano tiene usted?",
+      "diccionario":{
+         "1":"Registro civil de nacimiento",
+         "2":"Tarjeta de identidad",
+         "3":"Cédula de ciudadanía o Cédula de extranjería",
+         "5":"No tiene documento de identidad",
+         "6":"No sabe"
+      }
+   },
+   "P11R":{
+      "descripcion":"11. ¿Dónde nació usted?",
+      "diccionario":{
+         "1":"En este municipio",
+         "2":"En otro municipio colombiano o en otro país. (Nota: En otro país se recodifico En otro municipio colombiano o en otro país.)",
+         "3":"Otro país"
+      }
+   },
+   "P12":{
+      "descripcion":"12. ¿En qué municipio duerme usted habitualmente?",
+      "diccionario":{
+         "1":"En este municipio",
+         "2":"En otro municipio colombiano",
+         "3":"En otro país"
+      }
+   },
+   "P13":{
+      "descripcion":"13. ¿Usted duerme habitualmente:",
+      "diccionario":{
+         "1":"en la calle? (puente, andén, parque, alcantarilla, carreta etc.)",
+         "2":"en un dormitorio transitorio? (hotel, paga diario, inquilinato, residencia, camarote)",
+         "3":"en una institución?"
+      }
+   },
+   "P15R":{
+      "descripcion":"15. ¿De acuerdo con su CULTURA, PUEBLO, O RASGOS FISICOS, usted es o se reconoce como:",
+      "diccionario":{
+         "1":"Si",
+         "2":"No"
+      }
+   },
+   "P16S1":{
+      "descripcion":"16. Dada su condición física y mental, y sin ningún tipo de ayuda, ¿usted puede:  1. oír la voz o los sonidos?",
+      "diccionario":{
+         "1":"No puede hacerlo",
+         "2":"Sí, con mucha dificultad",
+         "3":"Sí, con alguna dificultad",
+         "4":"Sin dificultad"
+      }
+   },
+   "P16S2":{
+      "descripcion":"16. Dada su condición física y mental, y sin ningún tipo de ayuda, ¿usted puede: 2. hablar o conversar?",
+      "diccionario":{
+         "1":"No puede hacerlo",
+         "2":"Sí, con mucha dificultad",
+         "3":"Sí, con alguna dificultad",
+         "4":"Sin dificultad"
+      }
+   },
+   "P16S3":{
+      "descripcion":"16. Dada su condición física y mental, y sin ningún tipo de ayuda, ¿usted puede: 3. ver de cerca, de lejos o alrededor?",
+      "diccionario":{
+         "1":"No puede hacerlo",
+         "2":"Sí, con mucha dificultad",
+         "3":"Sí, con alguna dificultad",
+         "4":"Sin dificultad"
+      }
+   },
+   "P16S4":{
+      "descripcion":"16. Dada su condición física y mental, y sin ningún tipo de ayuda, ¿usted puede: 4. mover el cuerpo, caminar?",
+      "diccionario":{
+         "1":"No puede hacerlo",
+         "2":"Sí, con mucha dificultad",
+         "3":"Sí, con alguna dificultad",
+         "4":"Sin dificultad"
+      }
+   },
+   "P16S5":{
+      "descripcion":"16. Dada su condición física y mental, y sin ningún tipo de ayuda, ¿usted puede: 5. agarrar o mover objetos con las manos?",
+      "diccionario":{
+         "1":"No puede hacerlo",
+         "2":"Sí, con mucha dificultad",
+         "3":"Sí, con alguna dificultad",
+         "4":"Sin dificultad"
+      }
+   },
+   "P16S6":{
+      "descripcion":"16. Dada su condición física y mental, y sin ningún tipo de ayuda, ¿usted puede: 6. aprender, recordar, tomar decisiones por sí mismo?",
+      "diccionario":{
+         "1":"No puede hacerlo",
+         "2":"Sí, con mucha dificultad",
+         "3":"Sí, con alguna dificultad",
+         "4":"Sin dificultad"
+      }
+   },
+   "P16S7":{
+      "descripcion":"16. Dada su condición física y mental, y sin ningún tipo de ayuda, ¿usted puede: 7. comer, vestirse, bañarse por sí mismo?",
+      "diccionario":{
+         "1":"No puede hacerlo",
+         "2":"Sí, con mucha dificultad",
+         "3":"Sí, con alguna dificultad",
+         "4":"Sin dificultad"
+      }
+   },
+   "P16S8":{
+      "descripcion":"16. Dada su condición física y mental, y sin ningún tipo de ayuda, ¿usted puede: 8. relacionarse o interactuar con las demás personas?",
+      "diccionario":{
+         "1":"No puede hacerlo",
+         "2":"Sí, con mucha dificultad",
+         "3":"Sí, con alguna dificultad",
+         "4":"Sin dificultad"
+      }
+   },
+   "P16S9":{
+      "descripcion":"16. Dada su condición física y mental, y sin ningún tipo de ayuda, ¿usted puede: 9. hacer las actividades diarias sin mostrar problemas cardíacos o respiratorios?",
+      "diccionario":{
+         "1":"No puede hacerlo",
+         "2":"Sí, con mucha dificultad",
+         "3":"Sí, con alguna dificultad",
+         "4":"Sin dificultad"
+      }
+   },
+   "P17":{
+      "descripcion":"17. En los últimos 30 días, ¿usted tuvo alguna enfermedad, accidente, problema odontológico o algún otro problema de salud?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P17S1":{
+      "descripcion":"17.1 ¿Cuál(es): Lesión, intoxicación o envenenamiento causado por accidente?"
+   },
+   "P17S2":{
+      "descripcion":"17.1 ¿Cuál(es): Lesión intencional por parte de terceros?"
+   },
+   "P17S3":{
+      "descripcion":"17.1 ¿Cuál(es): Problema mental o emocional?"
+   },
+   "P17S4":{
+      "descripcion":"17.1 ¿Cuál(es): Intento de suicidio?"
+   },
+   "P17S5":{
+      "descripcion":"17.1 ¿Cuál(es): Tos frecuente?"
+   },
+   "P17S6":{
+      "descripcion":"17.1 ¿Cuál(es): Otros problemas respiratorios (gripa, asma, EPOC)?"
+   },
+   "P17S7":{
+      "descripcion":"17.1 ¿Cuál(es): Enfermedades de transmisión sexual (venéreas)?"
+   },
+   "P17S8":{
+      "descripcion":"17.1 ¿Cuál(es): Molestias dentales?",
+      "diccionario":{
+         "1":"Molestias dentales?"
+      }
+   },
+   "P17S9":{
+      "descripcion":"17.1 ¿Cuál(es): Dolor abdominal y/o diarrea?",
+      "diccionario":{
+         "1":"Dolor abdominal y/o diarrea?"
+      }
+   },
+   "P17S10":{
+      "descripcion":"17.1 ¿Cuál(es): Otra?",
+      "diccionario":{
+         "1":"Otra?"
+      }
+   },
+   "P18":{
+      "descripcion":"18. Para tratar el problema de salud más GRAVE, ¿usted qué hizo PRINCIPALMENTE:",
+      "diccionario":{
+         "1":"Acudió a la entidad de seguridad social en salud a la cual está afiliado?",
+         "2":"Acudió a un médico general, especialista, odontólogo, terapeuta o profesional de la salud de forma PARTICULAR?",
+         "3":"Acudió a una Empresa Social del Estado, hospital o centro de salud?",
+         "4":"Acudió a un boticario, farmaceuta o droguista?",
+         "5":"Asistió a terapias alternativas (acupuntura, esencias florales, musicoterapias, homeopatía, etc.)?",
+         "6":"Acudió a una autoridad indígena espiritual?",
+         "7":"Acudió a otro médico de un grupo étnico (curandero, yerbatero, etc.)?",
+         "8":"Acudió a brigadas de salud de ONGs y otros?",
+         "9":"Usó remedios caseros?",
+         "10":"Se autorecetó?",
+         "11":"No hizo nada"
+      }
+   },
+   "P19":{
+      "descripcion":"19. ¿Lo atendieron?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P20":{
+      "descripcion":"20. ¿Usted ha sido diagnosticado con alguna de las siguientes enfermedades:"
+   },
+   "P20S1":{
+      "descripcion":"20. ¿Usted ha sido diagnosticado con alguna de las siguientes enfermedades: 1. Hipertensión?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P20S2":{
+      "descripcion":"20. ¿Usted ha sido diagnosticado con alguna de las siguientes enfermedades: 2. Diabetes?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P20S3":{
+      "descripcion":"20. ¿Usted ha sido diagnosticado con alguna de las siguientes enfermedades: 3. Cáncer?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P20S4":{
+      "descripcion":"20. ¿Usted ha sido diagnosticado con alguna de las siguientes enfermedades: 4. Tuberculosis?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P20S5":{
+      "descripcion":"20. ¿Usted ha sido diagnosticado con alguna de las siguientes enfermedades: 5. VIH- SIDA?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P20S1A1":{
+      "descripcion":"20a. Recibió tratamiento? 1. Hipertensión"
+   },
+   "P20S2A1":{
+      "descripcion":"20a. Recibió tratamiento? 2. Diabetes",
+      "diccionario":{
+         "1":"Si",
+         "2":"No"
+      }
+   },
+   "P20S3A1":{
+      "descripcion":"20a. Recibió tratamiento? 3. Cáncer",
+      "diccionario":{
+         "1":"Si",
+         "2":"No"
+      }
+   },
+   "P20S4A1":{
+      "descripcion":"20a. Recibió tratamiento? 4. Tuberculosis",
+      "diccionario":{
+         "1":"Si",
+         "2":"No"
+      }
+   },
+   "P20S5A1":{
+      "descripcion":"20a. Recibió tratamiento? 5. VIH- SIDA?",
+      "diccionario":{
+         "1":"Si",
+         "2":"No"
+      }
+   },
+   "P21R":{
+      "descripcion":"21. ¿En qué municipio o ciudad comenzó usted a vivir  en la calle?",
+      "diccionario":{
+         "1":"En este municipio",
+         "2":"En otro municipio colombiano o En otro país (Nota: En otro país se recodificó En otro municipio colombiano o en otro país",
+         "3":"En otro país"
+      }
+   },
+   "P22":{
+      "descripcion":"22. ¿Cuál fue la PRINCIPAL razón por la que empezó a vivir en la calle?",
+      "diccionario":{
+         "1":"Consumo de sustancias psicoactivas",
+         "2":"Por gusto personal",
+         "3":"Amenaza o riesgo para su vida o integridad física",
+         "4":"Influencia de otras personas",
+         "5":"Dificultades económicas",
+         "6":"Falta de trabajo",
+         "7":"Conflictos o dificultades familiares",
+         "8":"Abuso sexual",
+         "9":"Siempre ha vivido en la calle",
+         "10":"Victima del conflicto armado o desplazado",
+         "11":"Otra"
+      }
+   },
+   "P23":{
+      "descripcion":"23. ¿Cuánto tiempo lleva usted viviendo en la calle?"
+   },
+   "P23S1R":{
+      "descripcion":"23. ¿Cuánto tiempo lleva usted viviendo en la calle? Años"
+   },
+   "P24":{
+      "descripcion":"24. ¿Cuál es la PRINCIPAL razón por la que continúa viviendo en la calle?",
+      "diccionario":{
+         "1":"Consumo de sustancias psicoactivas",
+         "2":"Por gusto personal",
+         "3":"Las amistades",
+         "4":"Dificultades económicas",
+         "5":"Falta de trabajo",
+         "6":"Enfermedad",
+         "7":"Conflictos o dificultades familiares",
+         "8":"Siempre ha vivido en la calle",
+         "9":"Soledad",
+         "10":"Está haciendo proceso en un centro de atención",
+         "11":"Otra"
+      }
+   },
+   "P25":{
+      "descripcion":"25. ¿Con cuál persona de su familia de origen tiene usted MAYOR contacto?",
+      "diccionario":{
+         "1":"Mamá",
+         "2":"Papá",
+         "3":"Hermano(a), hermanastro(a)",
+         "4":"Abuelo(a)",
+         "5":"Tío(a)",
+         "6":"Hijo(a), hijastro(a)",
+         "7":"Pareja (esposoa, compañeroa)",
+         "8":"Otra",
+         "9":"Ninguno"
+      }
+   },
+   "P26":{
+      "descripcion":"26. ¿Usted recibe algún tipo de ayuda:"
+   },
+   "P26S1":{
+      "descripcion":"26. ¿Usted recibe algún tipo de ayuda: 1. De algún familiar?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P26S2":{
+      "descripcion":"26. ¿Usted recibe algún tipo de ayuda: 2. De amigos?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P26S3":{
+      "descripcion":"26. ¿Usted recibe algún tipo de ayuda: 3. De instituciones oficiales?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P26S4":{
+      "descripcion":"26. ¿Usted recibe algún tipo de ayuda: 4. De instituciones u organizaciones privadas?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P26S5":{
+      "descripcion":"26. ¿Usted recibe algún tipo de ayuda: 5. De organizaciones religiosas?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P26S6":{
+      "descripcion":"26. ¿Usted recibe algún tipo de ayuda: 6. De otros?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P26_1":{
+      "descripcion":"26.1 De las anteriores, ¿de quién proviene la PRINCIPAL fuente de ayuda que usted recibe?",
+      "diccionario":{
+         "1":"De algún familiar?",
+         "2":"De amigos?",
+         "3":"De instituciones oficiales?",
+         "4":"De instituciones u organizaciones privadas?",
+         "5":"De organizaciones religiosas?",
+         "6":"De otros?"
+      }
+   },
+   "P26_2S1":{
+      "descripcion":"26.2 ¿Cuáles de las siguientes ayudas, recibe usted: Económica?"
+   },
+   "P26_2S2":{
+      "descripcion":"26.2 ¿Cuáles de las siguientes ayudas, recibe usted: Alimentación?"
+   },
+   "P26_2S3":{
+      "descripcion":"26.2 ¿Cuáles de las siguientes ayudas, recibe usted: Alojamiento?"
+   },
+   "P26_2S4":{
+      "descripcion":"26.2 ¿Cuáles de las siguientes ayudas, recibe usted: Apoyo psicosocial?"
+   },
+   "P26_2S5":{
+      "descripcion":"26.2 ¿Cuáles de las siguientes ayudas, recibe usted: Formación y capacitación?"
+   },
+   "P26_2S6":{
+      "descripcion":"26.2 ¿Cuáles de las siguientes ayudas, recibe usted: Rehabilitación para consumo de SPA?"
+   },
+   "P26_2S7":{
+      "descripcion":"26.2 ¿Cuáles de las siguientes ayudas, recibe usted: Servicios médicos?"
+   },
+   "P26_2S8":{
+      "descripcion":"26.2 ¿Cuáles de las siguientes ayudas, recibe usted: Aseo personal?"
+   },
+   "P27":{
+      "descripcion":"27. ¿Usted sabe leer y escribir?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P28R":{
+      "descripcion":"28. ¿Cuál es el nivel educativo MÁS ALTO alcanzado por usted y el ÚLTIMO AÑO O GRADO aprobado en ese nivel?",
+      "diccionario":{
+         "1":"Preescolar",
+         "2":"Básica primaria",
+         "3":"Básica secundaria",
+         "4":"Media académica, media técnica o normalista",
+         "5":"Técnica profesional o tegnológica",
+         "6":"Universitario o Posgrado",
+         "13":"Ninguno"
+      }
+   },
+   "P29":{
+      "descripcion":"29. PRINCIPALMENTE, ¿cómo consigue usted dinero?",
+      "diccionario":{
+         "1":"Limpiando vidrios, cuidando carros, tocando llantas, vendiendo en la calle u otras similares",
+         "2":"Cantando, haciendo malabares, cuentería artesanía u otras similares",
+         "3":"Carpintería, electricidad, construcción u otras similares",
+         "4":"Pidiendo, retacando, mendigando",
+         "5":"Recogiendo material reciclable",
+         "6":"Como campanero, taquillero, vendiendo o transportando sustancias psicoactivas",
+         "7":"Robando o atracando",
+         "8":"Ejerciendo la prostitución",
+         "9":"Otra"
+      }
+   },
+   "P30":{
+      "descripcion":"30. Actualmente, ¿usted consume:"
+   },
+   "P30S1":{
+      "descripcion":"30. Actualmente, ¿usted consume: 1. cigarrillo?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P30S2":{
+      "descripcion":"30. Actualmente, ¿usted consume: 2. alcohol? (Bebidas alcohólicas, chamber, etílico)",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P30S3":{
+      "descripcion":"30. Actualmente, ¿usted consume: 3. marihuana?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P30S4":{
+      "descripcion":"30. Actualmente, ¿usted consume: 4. Inhalantes? (sacol, pegante, bóxer, gasolina, tíner, etc.)",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P30S5":{
+      "descripcion":"30. Actualmente, ¿usted consume: 5. cocaína?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P30S6":{
+      "descripcion":"30. Actualmente, ¿usted consume: 6. basuco?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P30S7":{
+      "descripcion":"30. Actualmente, ¿usted consume: 7. heroína?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P30S8":{
+      "descripcion":"30. Actualmente, ¿usted consume: 8. pepas?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P30S9":{
+      "descripcion":"30. Actualmente, ¿usted consume: 9. otras? (maduro, pistolo, etc.)",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P30S1A1":{
+      "descripcion":"Edad inicio del consumo 1. cigarrillo"
+   },
+   "P30S2A1":{
+      "descripcion":"Edad inicio del consumo  2. alcohol  (Bebidas alcohólicas, chamber, etílico)"
+   },
+   "P30S3A1":{
+      "descripcion":"Edad inicio del consumo  3. marihuana"
+   },
+   "P30S4A1":{
+      "descripcion":"Edad inicio del consumo 4. inhalantes (sacol, pegante, boxer, gasolina, thiner, etc.)"
+   },
+   "P30S5A1":{
+      "descripcion":"Edad inicio del consumo 5. cocaína"
+   },
+   "P30S6A1":{
+      "descripcion":"Edad inicio del consumo 6. basuco"
+   },
+   "P30S7A1":{
+      "descripcion":"Edad inicio del consumo 7. heroína"
+   },
+   "P30S8A1":{
+      "descripcion":"Edad inicio del consumo 8. pepas"
+   },
+   "P30S9A1":{
+      "descripcion":"Edad inicio del consumo  9. otras (maduro, pistolo, etc.)"
+   },
+   "P30_1":{
+      "descripcion":"30.1 De las anteriores, ¿cuál consume principalmente?",
+      "diccionario":{
+         "1":"Cigarrillo?",
+         "2":"Alcohol? (Bebidas alcohólicas, chamber, etílico)",
+         "3":"Marihuana?",
+         "4":"Inhalantes? (sacol, pegante, bóxer, gasolina, tíner, etc.)",
+         "5":"Cocaína?",
+         "6":"Basuco?",
+         "7":"Heroína?",
+         "8":"Pepas?",
+         "9":"Otras? (maduro, pistolo, etc.)"
+      }
+   },
+   "P30_2":{
+      "descripcion":"30.2 ¿Cada cuánto consume basuco:",
+      "diccionario":{
+         "1":"Más de 10 veces al día?",
+         "2":"Entre 1 y 10 veces al día?",
+         "3":"3 veces a la semana?",
+         "4":"1 vez a la semana?"
+      }
+   },
+   "P31":{
+      "descripcion":"31. ¿Usted sabe si la alcaldía tiene programas donde se atiende a los habitantes de la calle?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P32":{
+      "descripcion":"32. ¿Los utiliza?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P32S1":{
+      "descripcion":"32.1 ¿Por qué no los utiliza: No sabe dónde quedan?"
+   },
+   "P32S2":{
+      "descripcion":"32.1 ¿Por qué no los utiliza: Quedan lejos?"
+   },
+   "P32S3":{
+      "descripcion":"32.1 ¿Por qué no los utiliza: Le solicitan identificación y no tiene?"
+   },
+   "P32S4":{
+      "descripcion":"32.1 ¿Por qué no los utiliza: No le permiten ingresar la pipa?"
+   },
+   "P32S5":{
+      "descripcion":"32.1 ¿Por qué no los utiliza: No le permiten ingresar sus elementos personales?"
+   },
+   "P32S6":{
+      "descripcion":"32.1 ¿Por qué no los utiliza: No le permiten ingresar la mascota?"
+   },
+   "P32S7":{
+      "descripcion":"32.1 ¿Por qué no los utiliza: No le gusta?"
+   },
+   "P32S8":{
+      "descripcion":"32.1 ¿Por qué no los utiliza: Otra razón?"
+   },
+   "P33":{
+      "descripcion":"33. Su seguridad en la calle se ha visto afectada por:"
+   },
+   "P33S1":{
+      "descripcion":"33. Su seguridad en la calle se ha visto afectada por: 1. Persecución por integrantes de una olla",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P33S2":{
+      "descripcion":"33. Su seguridad en la calle se ha visto afectada por: 2. Ser forzado a cumplir con tareas en contra de su voluntad",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P33S3":{
+      "descripcion":"33. Su seguridad en la calle se ha visto afectada por: 3. Abuso policial",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P33S4":{
+      "descripcion":"33. Su seguridad en la calle se ha visto afectada por: 4. Problemas con grupos juveniles (Barras Bravas, Calvos)",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P33S5":{
+      "descripcion":"33. Su seguridad en la calle se ha visto afectada por: 5. Problemas con la comunidad",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P33S6":{
+      "descripcion":"33. Su seguridad en la calle se ha visto afectada por: 6. Otra",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P33_1":{
+      "descripcion":"33.1 ¿Usted teme por su vida?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P33_2":{
+      "descripcion":"33.2 ¿En los últimos 30 días, usted ha sido victima de:"
+   },
+   "P33_2S1":{
+      "descripcion":"33.2 ¿En los últimos 30 días, usted ha sido victima de: 1. Golpes?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P33_2S2":{
+      "descripcion":"33.2 ¿En los últimos 30 días, usted ha sido victima de: 2. Disparos?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P33_2S3":{
+      "descripcion":"33.2 ¿En los últimos 30 días, usted ha sido victima de: 3. Arma Blanca?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P33_2S4":{
+      "descripcion":"33.2 ¿En los últimos 30 días, usted ha sido victima de: 4. Amenazas?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P33_2S5":{
+      "descripcion":"33.2 ¿En los últimos 30 días, usted ha sido victima de: 5. Insultos?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
+   },
+   "P34":{
+      "descripcion":"34. ¿Usted se reconoce en su orientación sexual como:",
+      "diccionario":{
+         "1":"Heterosexual?",
+         "2":"Homosexual?",
+         "3":"Bisexual?",
+         "4":"No sabe",
+         "5":"No responde"
+      }
+   },
+   "P35":{
+      "descripcion":"35. Sexo:",
+      "diccionario":{
+         "1":"Hombre",
+         "2":"Mujer"
+      }
+   },
+   "P36R":{
+      "descripcion":"36. Edad estimada"
+   },
+   "P37S1":{
+      "descripcion":"37. La entrevista no se realizó porque la persona estaba: Muy alterada por el efecto de sustancias psicoactivas"
+   },
+   "P37S2":{
+      "descripcion":"37. La entrevista no se realizó porque la persona estaba: Dormida"
+   },
+   "P37S3":{
+      "descripcion":"37. La entrevista no se realizó porque la persona estaba: Con actitud agresiva"
+   },
+   "P37S4":{
+      "descripcion":"37. La entrevista no se realizó porque la persona estaba: Aparentemente con problemas de salud mental"
+   },
+   "P37S5":{
+      "descripcion":"37. La entrevista no se realizó porque la persona estaba: Totalmente desinteresada"
+   },
+   "P37S6":{
+      "descripcion":"37. La entrevista no se realizó porque la persona estaba: Hay condiciones de riesgo para los encuestadores"
+   },
+   "P37S7":{
+      "descripcion":"37. La entrevista no se realizó porque la persona estaba: Otra"
+   },
+   "COMPLETA":{
+      "descripcion":"Identificador de finalización de la encuesta",
+      "diccionario":{
+         "1":"Completa",
+         "2":"Incompleta"
+      }
+   }
+}
