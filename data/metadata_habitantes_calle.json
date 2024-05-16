@@ -244,21 +244,18 @@
    },
    "P17S8":{
       "descripcion":"17.1 ¿Cuál(es): Molestias dentales?",
-      "diccionario":{
-         "1":"Molestias dentales?"
-      }
+      "diccionario": {"1": "Sí", "2": "No"
+    }
    },
    "P17S9":{
       "descripcion":"17.1 ¿Cuál(es): Dolor abdominal y/o diarrea?",
-      "diccionario":{
-         "1":"Dolor abdominal y/o diarrea?"
-      }
+       "diccionario": {"1": "Sí", "2": "No"
+    }
    },
    "P17S10":{
       "descripcion":"17.1 ¿Cuál(es): Otra?",
-      "diccionario":{
-         "1":"Otra?"
-      }
+       "diccionario": {"1": "Sí", "2": "No"
+    }
    },
    "P18":{
       "descripcion":"18. Para tratar el problema de salud más GRAVE, ¿usted qué hizo PRINCIPALMENTE:",
