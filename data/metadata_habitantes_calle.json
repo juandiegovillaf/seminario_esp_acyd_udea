@@ -209,37 +209,37 @@
    },
    "P17S1":{
       "descripcion":"17.1 ¿Cuál(es): Lesión, intoxicación o envenenamiento causado por accidente?",
- 'diccionario': {'1': 'Sí', '2': 'No'
+ "diccionario": {"1": "Sí", "2": "No"
     }
    },
    "P17S2":{
       "descripcion":"17.1 ¿Cuál(es): Lesión intencional por parte de terceros?",
- 'diccionario': {'1': 'Sí', '2': 'No'
+ "diccionario": {"1": "Sí", "2": "No"
     }
    },
    "P17S3":{
       "descripcion":"17.1 ¿Cuál(es): Problema mental o emocional?",
- 'diccionario': {'1': 'Sí', '2': 'No'
+ "diccionario": {"1": "Sí", "2": "No"
     }
    },
    "P17S4":{
       "descripcion":"17.1 ¿Cuál(es): Intento de suicidio?",
- 'diccionario': {'1': 'Sí', '2': 'No'
+ "diccionario": {"1": "Sí", "2": "No"
     }
    },
    "P17S5":{
       "descripcion":"17.1 ¿Cuál(es): Tos frecuente?",
- 'diccionario': {'1': 'Sí', '2': 'No'
+ "diccionario": {"1": "Sí", "2": "No"
     }
    },
    "P17S6":{
       "descripcion":"17.1 ¿Cuál(es): Otros problemas respiratorios (gripa, asma, EPOC)?",
- 'diccionario': {'1': 'Sí', '2': 'No'
+ "diccionario": {"1": "Sí", "2": "No"
     }
    },
    "P17S7":{
       "descripcion":"17.1 ¿Cuál(es): Enfermedades de transmisión sexual (venéreas)?",
- 'diccionario': {'1': 'Sí', '2': 'No'
+ "diccionario": {"1": "Sí", "2": "No"
     }
    },
    "P17S8":{
@@ -470,42 +470,42 @@
    },
    "P26_2S1":{
       "descripcion":"26.2 ¿Cuáles de las siguientes ayudas, recibe usted: Económica?",
- 'diccionario': {'1': 'Sí', '2': 'No'
+ "diccionario": {"1": "Sí", "2": "No"
     }
    },
    "P26_2S2":{
       "descripcion":"26.2 ¿Cuáles de las siguientes ayudas, recibe usted: Alimentación?",
- 'diccionario': {'1': 'Sí', '2': 'No'
+ "diccionario": {"1": "Sí", "2": "No"
     }
    },
    "P26_2S3":{
       "descripcion":"26.2 ¿Cuáles de las siguientes ayudas, recibe usted: Alojamiento?",
- 'diccionario': {'1': 'Sí', '2': 'No'
+ "diccionario": {"1": "Sí", "2": "No"
     }
    },
    "P26_2S4":{
       "descripcion":"26.2 ¿Cuáles de las siguientes ayudas, recibe usted: Apoyo psicosocial?",
- 'diccionario': {'1': 'Sí', '2': 'No'
+ "diccionario": {"1": "Sí", "2": "No"
     }
    },
    "P26_2S5":{
       "descripcion":"26.2 ¿Cuáles de las siguientes ayudas, recibe usted: Formación y capacitación?",
- 'diccionario': {'1': 'Sí', '2': 'No'
+ "diccionario": {"1": "Sí", "2": "No"
     }
    },
    "P26_2S6":{
       "descripcion":"26.2 ¿Cuáles de las siguientes ayudas, recibe usted: Rehabilitación para consumo de SPA?",
- 'diccionario': {'1': 'Sí', '2': 'No'
+ "diccionario": {"1": "Sí", "2": "No"
     }
    },
    "P26_2S7":{
       "descripcion":"26.2 ¿Cuáles de las siguientes ayudas, recibe usted: Servicios médicos?",
- 'diccionario': {'1': 'Sí', '2': 'No'
+ "diccionario": {"1": "Sí", "2": "No"
     }
    },
    "P26_2S8":{
       "descripcion":"26.2 ¿Cuáles de las siguientes ayudas, recibe usted: Aseo personal?",
- 'diccionario': {'1': 'Sí', '2': 'No'
+ "diccionario": {"1": "Sí", "2": "No"
     }
    },
    "P27":{
@@ -609,47 +609,47 @@
    },
    "P30S1A1":{
       "descripcion":"Edad inicio del consumo 1. cigarrillo",
- 'diccionario': {'1': 'Sí', '2': 'No'
+ "diccionario": {"1": "Sí", "2": "No"
     }
    },
    "P30S2A1":{
       "descripcion":"Edad inicio del consumo  2. alcohol  (Bebidas alcohólicas, chamber, etílico)",
- 'diccionario': {'1': 'Sí', '2': 'No'
+ "diccionario": {"1": "Sí", "2": "No"
     }
    },
    "P30S3A1":{
       "descripcion":"Edad inicio del consumo  3. marihuana",
-       'diccionario': {'1': 'Sí', '2': 'No'
+       "diccionario": {"1": "Sí", "2": "No"
     }
    },
    "P30S4A1":{
       "descripcion":"Edad inicio del consumo 4. inhalantes (sacol, pegante, boxer, gasolina, thiner, etc.)",
-       'diccionario': {'1': 'Sí', '2': 'No'
+       "diccionario": {"1": "Sí", "2": "No"
     }
    },
    "P30S5A1":{
       "descripcion":"Edad inicio del consumo 5. cocaína",
-       'diccionario': {'1': 'Sí', '2': 'No'
+       "diccionario": {"1": "Sí", "2": "No"
     }
    },
    "P30S6A1":{
       "descripcion":"Edad inicio del consumo 6. basuco",
-       'diccionario': {'1': 'Sí', '2': 'No'
+       "diccionario": {"1": "Sí", "2": "No"
     }
    },
    "P30S7A1":{
       "descripcion":"Edad inicio del consumo 7. heroína",
- 'diccionario': {'1': 'Sí', '2': 'No'
+ "diccionario": {"1": "Sí", "2": "No"
     }
    },
    "P30S8A1":{
       "descripcion":"Edad inicio del consumo 8. pepas",
- 'diccionario': {'1': 'Sí', '2': 'No'
+ "diccionario": {"1": "Sí", "2": "No"
     }
    },
    "P30S9A1":{
       "descripcion":"Edad inicio del consumo  9. otras (maduro, pistolo, etc.)",
- 'diccionario': {'1': 'Sí', '2': 'No'
+ "diccionario": {"1": "Sí", "2": "No"
     }
    },
    "P30_1":{
