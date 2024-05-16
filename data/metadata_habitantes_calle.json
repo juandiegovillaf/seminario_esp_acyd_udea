@@ -613,44 +613,28 @@
     }
    },
    "P30S2A1":{
-      "descripcion":"Edad inicio del consumo  2. alcohol  (Bebidas alcohólicas, chamber, etílico)",
- "diccionario": {"1": "Sí", "2": "No"
-    }
+      "descripcion":"Edad inicio del consumo  2. alcohol  (Bebidas alcohólicas, chamber, etílico)"
    },
    "P30S3A1":{
-      "descripcion":"Edad inicio del consumo  3. marihuana",
-       "diccionario": {"1": "Sí", "2": "No"
-    }
+      "descripcion":"Edad inicio del consumo  3. marihuana"
    },
    "P30S4A1":{
-      "descripcion":"Edad inicio del consumo 4. inhalantes (sacol, pegante, boxer, gasolina, thiner, etc.)",
-       "diccionario": {"1": "Sí", "2": "No"
-    }
+      "descripcion":"Edad inicio del consumo 4. inhalantes (sacol, pegante, boxer, gasolina, thiner, etc.)"
    },
    "P30S5A1":{
-      "descripcion":"Edad inicio del consumo 5. cocaína",
-       "diccionario": {"1": "Sí", "2": "No"
-    }
+      "descripcion":"Edad inicio del consumo 5. cocaína"
    },
    "P30S6A1":{
-      "descripcion":"Edad inicio del consumo 6. basuco",
-       "diccionario": {"1": "Sí", "2": "No"
-    }
+      "descripcion":"Edad inicio del consumo 6. basuco"
    },
    "P30S7A1":{
-      "descripcion":"Edad inicio del consumo 7. heroína",
- "diccionario": {"1": "Sí", "2": "No"
-    }
+      "descripcion":"Edad inicio del consumo 7. heroína"
    },
    "P30S8A1":{
-      "descripcion":"Edad inicio del consumo 8. pepas",
- "diccionario": {"1": "Sí", "2": "No"
-    }
+      "descripcion":"Edad inicio del consumo 8. pepas"
    },
    "P30S9A1":{
-      "descripcion":"Edad inicio del consumo  9. otras (maduro, pistolo, etc.)",
- "diccionario": {"1": "Sí", "2": "No"
-    }
+      "descripcion":"Edad inicio del consumo  9. otras (maduro, pistolo, etc.)"
    },
    "P30_1":{
       "descripcion":"30.1 De las anteriores, ¿cuál consume principalmente?",
@@ -690,28 +674,60 @@
       }
    },
    "P32S1":{
-      "descripcion":"32.1 ¿Por qué no los utiliza: No sabe dónde quedan?"
+      "descripcion":"32.1 ¿Por qué no los utiliza: No sabe dónde quedan?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
    },
    "P32S2":{
-      "descripcion":"32.1 ¿Por qué no los utiliza: Quedan lejos?"
+      "descripcion":"32.1 ¿Por qué no los utiliza: Quedan lejos?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
    },
    "P32S3":{
-      "descripcion":"32.1 ¿Por qué no los utiliza: Le solicitan identificación y no tiene?"
+      "descripcion":"32.1 ¿Por qué no los utiliza: Le solicitan identificación y no tiene?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
    },
    "P32S4":{
-      "descripcion":"32.1 ¿Por qué no los utiliza: No le permiten ingresar la pipa?"
+      "descripcion":"32.1 ¿Por qué no los utiliza: No le permiten ingresar la pipa?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
    },
    "P32S5":{
-      "descripcion":"32.1 ¿Por qué no los utiliza: No le permiten ingresar sus elementos personales?"
+      "descripcion":"32.1 ¿Por qué no los utiliza: No le permiten ingresar sus elementos personales?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
    },
    "P32S6":{
-      "descripcion":"32.1 ¿Por qué no los utiliza: No le permiten ingresar la mascota?"
+      "descripcion":"32.1 ¿Por qué no los utiliza: No le permiten ingresar la mascota?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
    },
    "P32S7":{
-      "descripcion":"32.1 ¿Por qué no los utiliza: No le gusta?"
+      "descripcion":"32.1 ¿Por qué no los utiliza: No le gusta?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
    },
    "P32S8":{
-      "descripcion":"32.1 ¿Por qué no los utiliza: Otra razón?"
+      "descripcion":"32.1 ¿Por qué no los utiliza: Otra razón?",
+      "diccionario":{
+         "1":"Sí",
+         "2":"No"
+      }
    },
    "P33":{
       "descripcion":"33. Su seguridad en la calle se ha visto afectada por:"
