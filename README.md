@@ -6,7 +6,7 @@
 
 **Tabla de contenido**
 
-[TOC]
+[TOCM]
 ## Propuesta de Proyecto
 Precisar los alcances del fenómeno de la población habitante de calle desde una perspectiva social y de salud pública en el territorio de Medellín.
 
@@ -44,13 +44,13 @@ pip install pandas
 pip install wsgiref boto numpy
 ```
 
-###Dataset
-El data set cuenta en su forma natural con 129 variables y 13252 registros, esta se encuentra en la carpeta `data`, pero al ser un repositorio público, esta información puede ser consultada a través de un link como el siguiente ejemplo:
+### Dataset
+El dataset cuenta en su forma natural con 129 variables y 13252 registros, esta se encuentra en la carpeta `data`, pero al ser un repositorio público, esta información puede ser consultada a través de un link como el siguiente ejemplo:
 
 ```python
 link_dataset_csv   = 'https://raw.githubusercontent.com/juandiegovillaf/seminario_esp_acyd_udea/main/data/CHC_2019.csv'
 ```
-###Metadatos
+### Metadatos
 El archivo de metadatos es de extensión `json`, el cual contiene la información de cada una de las variables, ya que cada una por su extensión, tiene un código asociado. También en el se encuentra el diccionario asociado a cada uno de las codificaciones que tiene las variables cualitativas.  Un ejemplo ilustrativo con la variable _departamento_:
 
 ```json
