@@ -605,9 +605,7 @@
       }
    },
    "P30S1A1":{
-      "descripcion":"Edad inicio del consumo 1. cigarrillo",
- "diccionario": {"1": "Sí", "2": "No"
-    }
+      "descripcion":"Edad inicio del consumo 1. cigarrillo"
    },
    "P30S2A1":{
       "descripcion":"Edad inicio del consumo  2. alcohol  (Bebidas alcohólicas, chamber, etílico)"
