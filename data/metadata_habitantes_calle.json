@@ -208,54 +208,43 @@
       }
    },
    "P17S1":{
-      "descripcion":"17.1 ¿Cuál(es): Lesión, intoxicación o envenenamiento causado por accidente?",
- "diccionario": {"1": "Sí", "2": "No"
-    }
+      "descripcion":"17.1 ¿Cuál(es): Lesión, intoxicación o envenenamiento causado por accidente?"
    },
    "P17S2":{
-      "descripcion":"17.1 ¿Cuál(es): Lesión intencional por parte de terceros?",
- "diccionario": {"1": "Sí", "2": "No"
-    }
+      "descripcion":"17.1 ¿Cuál(es): Lesión intencional por parte de terceros?"
    },
    "P17S3":{
-      "descripcion":"17.1 ¿Cuál(es): Problema mental o emocional?",
- "diccionario": {"1": "Sí", "2": "No"
-    }
+      "descripcion":"17.1 ¿Cuál(es): Problema mental o emocional?"
    },
    "P17S4":{
-      "descripcion":"17.1 ¿Cuál(es): Intento de suicidio?",
- "diccionario": {"1": "Sí", "2": "No"
-    }
+      "descripcion":"17.1 ¿Cuál(es): Intento de suicidio?"
    },
    "P17S5":{
-      "descripcion":"17.1 ¿Cuál(es): Tos frecuente?",
- "diccionario": {"1": "Sí", "2": "No"
-    }
+      "descripcion":"17.1 ¿Cuál(es): Tos frecuente?"
    },
    "P17S6":{
-      "descripcion":"17.1 ¿Cuál(es): Otros problemas respiratorios (gripa, asma, EPOC)?",
- "diccionario": {"1": "Sí", "2": "No"
-    }
+      "descripcion":"17.1 ¿Cuál(es): Otros problemas respiratorios (gripa, asma, EPOC)?"
    },
    "P17S7":{
-      "descripcion":"17.1 ¿Cuál(es): Enfermedades de transmisión sexual (venéreas)?",
- "diccionario": {"1": "Sí", "2": "No"
-    }
+      "descripcion":"17.1 ¿Cuál(es): Enfermedades de transmisión sexual (venéreas)?"
    },
    "P17S8":{
       "descripcion":"17.1 ¿Cuál(es): Molestias dentales?",
-      "diccionario": {"1": "Sí", "2": "No"
-    }
+      "diccionario":{
+         "1":"Molestias dentales?"
+      }
    },
    "P17S9":{
       "descripcion":"17.1 ¿Cuál(es): Dolor abdominal y/o diarrea?",
-       "diccionario": {"1": "Sí", "2": "No"
-    }
+      "diccionario":{
+         "1":"Dolor abdominal y/o diarrea?"
+      }
    },
    "P17S10":{
       "descripcion":"17.1 ¿Cuál(es): Otra?",
-       "diccionario": {"1": "Sí", "2": "No"
-    }
+      "diccionario":{
+         "1":"Otra?"
+      }
    },
    "P18":{
       "descripcion":"18. Para tratar el problema de salud más GRAVE, ¿usted qué hizo PRINCIPALMENTE:",
@@ -319,7 +308,11 @@
       }
    },
    "P20S1A1":{
-      "descripcion":"20a. Recibió tratamiento? 1. Hipertensión"
+      "descripcion":"20a. Recibió tratamiento? 1. Hipertensión",
+      "diccionario":{
+         "1":"Si",
+         "2":"No"
+      }
    },
    "P20S2A1":{
       "descripcion":"20a. Recibió tratamiento? 2. Diabetes",
@@ -466,44 +459,28 @@
       }
    },
    "P26_2S1":{
-      "descripcion":"26.2 ¿Cuáles de las siguientes ayudas, recibe usted: Económica?",
- "diccionario": {"1": "Sí", "2": "No"
-    }
+      "descripcion":"26.2 ¿Cuáles de las siguientes ayudas, recibe usted: Económica?"
    },
    "P26_2S2":{
-      "descripcion":"26.2 ¿Cuáles de las siguientes ayudas, recibe usted: Alimentación?",
- "diccionario": {"1": "Sí", "2": "No"
-    }
+      "descripcion":"26.2 ¿Cuáles de las siguientes ayudas, recibe usted: Alimentación?"
    },
    "P26_2S3":{
-      "descripcion":"26.2 ¿Cuáles de las siguientes ayudas, recibe usted: Alojamiento?",
- "diccionario": {"1": "Sí", "2": "No"
-    }
+      "descripcion":"26.2 ¿Cuáles de las siguientes ayudas, recibe usted: Alojamiento?"
    },
    "P26_2S4":{
-      "descripcion":"26.2 ¿Cuáles de las siguientes ayudas, recibe usted: Apoyo psicosocial?",
- "diccionario": {"1": "Sí", "2": "No"
-    }
+      "descripcion":"26.2 ¿Cuáles de las siguientes ayudas, recibe usted: Apoyo psicosocial?"
    },
    "P26_2S5":{
-      "descripcion":"26.2 ¿Cuáles de las siguientes ayudas, recibe usted: Formación y capacitación?",
- "diccionario": {"1": "Sí", "2": "No"
-    }
+      "descripcion":"26.2 ¿Cuáles de las siguientes ayudas, recibe usted: Formación y capacitación?"
    },
    "P26_2S6":{
-      "descripcion":"26.2 ¿Cuáles de las siguientes ayudas, recibe usted: Rehabilitación para consumo de SPA?",
- "diccionario": {"1": "Sí", "2": "No"
-    }
+      "descripcion":"26.2 ¿Cuáles de las siguientes ayudas, recibe usted: Rehabilitación para consumo de SPA?"
    },
    "P26_2S7":{
-      "descripcion":"26.2 ¿Cuáles de las siguientes ayudas, recibe usted: Servicios médicos?",
- "diccionario": {"1": "Sí", "2": "No"
-    }
+      "descripcion":"26.2 ¿Cuáles de las siguientes ayudas, recibe usted: Servicios médicos?"
    },
    "P26_2S8":{
-      "descripcion":"26.2 ¿Cuáles de las siguientes ayudas, recibe usted: Aseo personal?",
- "diccionario": {"1": "Sí", "2": "No"
-    }
+      "descripcion":"26.2 ¿Cuáles de las siguientes ayudas, recibe usted: Aseo personal?"
    },
    "P27":{
       "descripcion":"27. ¿Usted sabe leer y escribir?",
@@ -669,60 +646,28 @@
       }
    },
    "P32S1":{
-      "descripcion":"32.1 ¿Por qué no los utiliza: No sabe dónde quedan?",
-      "diccionario":{
-         "1":"Sí",
-         "2":"No"
-      }
+      "descripcion":"32.1 ¿Por qué no los utiliza: No sabe dónde quedan?"
    },
    "P32S2":{
-      "descripcion":"32.1 ¿Por qué no los utiliza: Quedan lejos?",
-      "diccionario":{
-         "1":"Sí",
-         "2":"No"
-      }
+      "descripcion":"32.1 ¿Por qué no los utiliza: Quedan lejos?"
    },
    "P32S3":{
-      "descripcion":"32.1 ¿Por qué no los utiliza: Le solicitan identificación y no tiene?",
-      "diccionario":{
-         "1":"Sí",
-         "2":"No"
-      }
+      "descripcion":"32.1 ¿Por qué no los utiliza: Le solicitan identificación y no tiene?"
    },
    "P32S4":{
-      "descripcion":"32.1 ¿Por qué no los utiliza: No le permiten ingresar la pipa?",
-      "diccionario":{
-         "1":"Sí",
-         "2":"No"
-      }
+      "descripcion":"32.1 ¿Por qué no los utiliza: No le permiten ingresar la pipa?"
    },
    "P32S5":{
-      "descripcion":"32.1 ¿Por qué no los utiliza: No le permiten ingresar sus elementos personales?",
-      "diccionario":{
-         "1":"Sí",
-         "2":"No"
-      }
+      "descripcion":"32.1 ¿Por qué no los utiliza: No le permiten ingresar sus elementos personales?"
    },
    "P32S6":{
-      "descripcion":"32.1 ¿Por qué no los utiliza: No le permiten ingresar la mascota?",
-      "diccionario":{
-         "1":"Sí",
-         "2":"No"
-      }
+      "descripcion":"32.1 ¿Por qué no los utiliza: No le permiten ingresar la mascota?"
    },
    "P32S7":{
-      "descripcion":"32.1 ¿Por qué no los utiliza: No le gusta?",
-      "diccionario":{
-         "1":"Sí",
-         "2":"No"
-      }
+      "descripcion":"32.1 ¿Por qué no los utiliza: No le gusta?"
    },
    "P32S8":{
-      "descripcion":"32.1 ¿Por qué no los utiliza: Otra razón?",
-      "diccionario":{
-         "1":"Sí",
-         "2":"No"
-      }
+      "descripcion":"32.1 ¿Por qué no los utiliza: Otra razón?"
    },
    "P33":{
       "descripcion":"33. Su seguridad en la calle se ha visto afectada por:"
